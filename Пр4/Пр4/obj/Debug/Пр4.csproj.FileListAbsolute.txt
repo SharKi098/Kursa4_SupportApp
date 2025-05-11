@@ -1,0 +1,123 @@
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\bin\Debug\Пр4.exe.config
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\bin\Debug\Пр4.exe
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\bin\Debug\Пр4.pdb
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.csproj.AssemblyReference.cache
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\MainWindow.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\App.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4_MarkupCompile.cache
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4_MarkupCompile.lref
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\MainWindow.baml
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.g.resources
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.Properties.Resources.resources
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.csproj.GenerateResource.cache
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.csproj.CoreCompileInputs.cache
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.exe
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.pdb
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\LoginWindow.baml
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\RegisterWindow.baml
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\LoginWindow.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\RegisterWindow.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4_Content.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\AdminPanel.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\AdminPanel.baml
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\OtchetPanel.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\OtchetPanel.baml
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\RedactPanel.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\RedactPanel.baml
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\DeleteLog.g.cs
+C:\Users\smena1\Documents\Для студентов\УП Верхотуров\Пр4\Пр4\obj\Debug\DeleteLog.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.csproj.AssemblyReference.cache
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\LoginWindow.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\PersonalAccountPage.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\RegisterWindow.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\AdminPanel.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\DeleteLog.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\LoginWindow.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\MainWindow.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\OtchetPanel.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\PersonalAccountPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\RedactPanel.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\RegisterWindow.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\SupportApp.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\App.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4_Content.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4_MarkupCompile.cache
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4_MarkupCompile.lref
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.exe
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.pdb
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\bin\Debug\Пр4.exe.config
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\bin\Debug\Пр4.exe
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\bin\Debug\Пр4.pdb
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\AdminPanel.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\DeleteLog.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\MainWindow.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\OtchetPanel.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\RedactPanel.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\SupportApp.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.g.resources
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.Properties.Resources.resources
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.csproj.GenerateResource.cache
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\Пр4.csproj.CoreCompileInputs.cache
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\CreateTicketPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\RatingPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\TrackTicketsPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\CreateTicketPage.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\RatingPage.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\TrackTicketsPage.baml
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\AnalyticsPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\KnowledgeBasePage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\ManageEmployeesPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\ManageTicketsPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\SettingPage.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\EmployeePanel.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\TechSupportWindow.g.cs
+C:\Users\konst\Downloads\УП Верхотуров\Пр4\Пр4\obj\Debug\TicketsDashboardPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Пр4.csproj.AssemblyReference.cache
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\LoginWindow.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\PersonalAccountPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\AdminPanel.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\CreateTicketPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\KnowledgeBasePage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\LoginWindow.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\MainWindow.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\ManageEmployeesPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\ManageTicketsPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\PersonalAccountPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\RatingPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\SettingPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\EmployeePanel.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\SupportChatPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\TechSupportWindow.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\TicketsDashboardPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\TrackTicketsPage.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\App.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\EntityFramework.dll
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\EntityFramework.xml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\AdminPanel.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\CreateTicketPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\KnowledgeBasePage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\MainWindow.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\ManageEmployeesPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\ManageTicketsPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\RatingPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\AdminPanel\SettingPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\EmployeePanel.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\SupportChatPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\TechSupportWindow.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\TechSupport\TicketsDashboardPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\EmployeePanel\TrackTicketsPage.baml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Пр4.Properties.Resources.resources
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Пр4.csproj.GenerateResource.cache
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Пр4.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Пр4.csproj.Up2Date
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Приложение Тех.Поддержки_Content.g.cs
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Приложение Тех.Поддержки_MarkupCompile.cache
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Приложение Тех.Поддержки_MarkupCompile.lref
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\Приложение Тех.Поддержки.exe.config
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\Приложение Тех.Поддержки.exe
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\Приложение Тех.Поддержки.pdb
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Приложение Тех.Поддержки.g.resources
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Приложение Тех.Поддержки.exe
+C:\Users\konst\Desktop\Visual\Пр4\Пр4\obj\Debug\Приложение Тех.Поддержки.pdb

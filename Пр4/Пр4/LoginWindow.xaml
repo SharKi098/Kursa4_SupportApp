@@ -1,0 +1,26 @@
+﻿<Window x:Class="Пр4.LoginWindow"
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+        Title="Авторизация" Height="233" Width="300" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF525D73"/>
+            <GradientStop Color="#FFD2CCE0" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Label Content="Логин:" Grid.Column="3" FontFamily="Century Gothic" FontStyle="Italic" Height="25" Width="49" Margin="40,0,150,0"/>
+        <TextBox x:Name="LoginBox" Width="167" BorderBrush="#FF1741C1" Height="18" />
+        <Label Content="Пароль:" FontFamily="Century Gothic" FontStyle="Italic" Height="25" Width="58" RenderTransformOrigin="0.552,-0.806" HorizontalAlignment="Left"  Margin="40,0,150,0"/>
+        <PasswordBox x:Name="PasswordBox" Width="167" BorderBrush="#FF1741C1" Height="18"/>
+        <Button Content="Войти" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="90,20,0,0" Click="LoginButton_Click" BorderBrush="#FF1E74E0" Foreground="#FF3D3F4E" Background="#FF96CADC" Grid.Column="3" Width="84" Grid.Row="1" Height="20" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="ErrorMessageTextBlock" Foreground="Red" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="30,40,0,0" Grid.Column="3" Grid.ColumnSpan="2" Width="167" Height="20" TextWrapping="Wrap" Grid.Row="1" />
+    </StackPanel>
+
+</Window>
+
+

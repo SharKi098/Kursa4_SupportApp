@@ -1,0 +1,86 @@
+﻿<Page x:Class="Пр4.ManageEmployeesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Пр4"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="ManageEmployeesPage" Background="#FF848484" Height="530">
+
+    <Grid Background="#FF848484">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Форма редактирования -->
+        <GroupBox Grid.Row="0" Header="Добавить/редактировать сотрудника" Margin="10">
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Поля ввода -->
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Email:" Margin="5"/>
+                    <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtEmail" Margin="5" Width="300"/>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Пароль:" Margin="5"/>
+                    <PasswordBox Grid.Row="1" Grid.Column="1" x:Name="txtPassword" Margin="5" Width="300"/>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Отдел:" Margin="5"/>
+                    <TextBox Grid.Row="2" Grid.Column="1" x:Name="txtDepartment" Margin="5" Width="300"/>
+
+                    <TextBlock Grid.Row="3" Grid.Column="0" Text="Роль:" Margin="5"/>
+                    <ComboBox Grid.Row="3" Grid.Column="1" x:Name="cmbRoles" 
+                              DisplayMemberPath="RoleName"
+                              SelectedValuePath="RoleId"
+                              Margin="5" Width="300"/>
+
+                    <!-- Кнопки управления -->
+                    <StackPanel Grid.Row="4" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Button Content="Сохранить" Width="100" Margin="5" Click="SaveEmployee_Click"/>
+                        <Button Content="Новый" Width="100" Margin="5" Click="NewEmployee_Click"/>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Список сотрудников -->
+        <GroupBox Grid.Row="1" Header="Список сотрудников" Margin="10">
+            <ListView x:Name="EmployeesListView" 
+                      SelectionChanged="EmployeesListView_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="ID" DisplayMemberBinding="{Binding user_id}" Width="50"/>
+                        <GridViewColumn Header="Email" DisplayMemberBinding="{Binding email}" Width="200"/>
+                        <GridViewColumn Header="Отдел" DisplayMemberBinding="{Binding department}" Width="150"/>
+                        <GridViewColumn Header="Роль" DisplayMemberBinding="{Binding RoleName}" Width="100"/>
+                        <GridViewColumn Header="Дата регистрации" DisplayMemberBinding="{Binding created_at,StringFormat=dd.MM.yyyy}" Width="120"/>
+                        <GridViewColumn Header="Действия" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Удалить" 
+                                            Click="DeleteEmployee_Click"
+                                            Tag="{Binding user_id}"
+                                            Margin="2" Padding="5"
+                                            ToolTip="Удалить сотрудника"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </GroupBox>
+    </Grid>
+</Page>
